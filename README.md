@@ -1,11 +1,11 @@
-# Olá, eu sou o Pedro Henrique Camargo! 👋
+# Olá, eu sou o Pedro Henrique Camargo! 👍👍
 
-**Ciência de Dados & Engenharia de Software** | Apaixonado por transformar dados em decisões.
+**Ciência de Dados & Engenharia de Software** | Focado em transformar dados em decisões!
 Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tecnologia.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@ Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tec
 
 ---
 
-### 🎓 Formação Acadêmica
+###  Formação Acadêmica
 
 - **Ciência de Dados (Tecnólogo)** – FATEC Santana de Parnaíba (2025 - 2028)
 - **Engenharia de Software (Bacharelado)** – Universidade Cesumar (2024 - 2028)
@@ -27,13 +27,13 @@ Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tec
 
 ---
 
-### 💼 Experiência
+###  Experiência
 
 - **Auxiliar Administrativo** – Mega Furo (Organização, Excel e Atendimento)
 
 ---
 
-### 🛠 Projetos e Estudos
+###  Projetos e Estudos
 
 🔹 **Análise de Dados de Varejo** – Aplicação da metodologia KDD, clustering e regressão.
 <br>
@@ -43,7 +43,7 @@ Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tec
 
 ---
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo!
 
 <a href="mailto:camargohp9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
